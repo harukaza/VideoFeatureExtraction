@@ -11,7 +11,7 @@ For Internvideo2_CLIP
 sh clip_extract.sh
 ```
 
-TODO LISI
+TODO List
 - [x] Update the clip extract code
 - [ ] support the batch inference
 - [ ] support the dataloader
